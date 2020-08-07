@@ -52,3 +52,9 @@
     left: 1.6rem;    
     bottom: 6px;
 }
+
+label small{
+    font-size: 1.2rem;
+    padding-left: 1.2rem;
+    color: var(--color-small-info)
+}

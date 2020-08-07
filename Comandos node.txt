@@ -1,0 +1,13 @@
+																				COMANDOS BÁSICOS DO NODE
+																				
+																				
+
+npm init -y => inicializa o servidor a partir de um diretório atual que será a raíz da aplicação
+npm install nome_pacote => instala dependência																				
+npm install nome_pacote -D => instala dependência em um caminho específico da aplicação. No caso será instalada no ambiente de desenvolvimento
+npm run nome_ambiente => irá acessar o package.json e executar, na parte de scripts, o ambiente que está disponível na aplicação (desenvolvimento, teste ou produção)
+
+
+NODEMON
+nodemon caminho_js_servidor => Nodemon irá localizar o arquivo de extensão .js, .mjs ou .json onde existe um script responsável pela inicialização do servidor
+rs => reinicia o servidor 

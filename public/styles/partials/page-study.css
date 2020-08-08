@@ -121,6 +121,12 @@
     background: var(--color-secondary-dark);
 }
 
+#page-study main .no-results{
+    max-width: 300px;
+    margin: 12rem auto;
+    text-align: center;
+}
+
 /* Adaptando para o desktop */
 @media(min-width:700px){
     #page-study #container{

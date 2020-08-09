@@ -1,7 +1,7 @@
 //Importando os objetos de bancos de dados, que estão em db.js
 const Database = require('./database/db')
 
-//Importando os objetos que estão no format.js (subjects, weekdays e getSubject)
+//Importando os objetos que estão no format.js (subjects, weekdays e getSubjects)
 const { subjects, weekdays, getSubjects, convertHoursToMinutes } = require('./utils/format')
 
 function pageLanding(req, res) {

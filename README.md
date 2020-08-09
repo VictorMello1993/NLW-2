@@ -1,1 +1,1 @@
-<img src="Screenshot_1.png">
+![](/public/images/Screenshot_1.png)

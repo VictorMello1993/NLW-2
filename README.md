@@ -11,4 +11,5 @@
   <li>NodeJs</li>
   <li>Express</li>
   <li>Nunjucks</li>
+  <li>SQLite</li>
 </ul>  

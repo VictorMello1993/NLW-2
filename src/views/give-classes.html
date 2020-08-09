@@ -56,7 +56,7 @@
                             <option value="">Selecione uma opção</option>
                              <!-- Como a lista de itens do combobox começa com zero, colocar loop.index0 para contar a partir do zero -->
                              {%for subject in subjects %}
-                                <option value="{{loop.index0}}">
+                                <option value="{{loop.index}}">
                                     {{subject}}
                                 </option>
                              {%endfor %}          
@@ -79,7 +79,7 @@
                             <select name="weekday[]" id="weekday">
                                 <option value="">Selecione uma opção</option>
                                 {%for weekday in weekdays %}
-                                    <option value="{{loop.index}}">
+                                    <option value="{{loop.index0}}">
                                         {{weekday}}
                                     </option>
                                 {%endfor %}    

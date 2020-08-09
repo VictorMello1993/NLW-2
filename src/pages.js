@@ -1,8 +1,8 @@
-//Importando os objetos que estão no format.js (subjects, weekdays e getSubject)
-const { subjects, weekdays, getSubject, convertHoursToMinutes } = require('./utils/format')
-
 //Importando os objetos de bancos de dados, que estão em db.js
 const Database = require('./database/db')
+
+//Importando os objetos que estão no format.js (subjects, weekdays e getSubject)
+const { subjects, weekdays, getSubjects, convertHoursToMinutes } = require('./utils/format')
 
 function pageLanding(req, res) {
     return res.render('index.html')
@@ -40,7 +40,7 @@ async function pageStudy(req, res) {
         const proffys = await db.all(query)
 
         proffys.map((proffy) => {
-            proffy.subject = getSubject(proffy.subject)
+            proffy.subject = getSubjects(proffy.subject)
         })
         
         /*Se toda a execução do banco de dados concluir com êxito, renderizar a página study com todos os dados de proffys 
@@ -87,8 +87,8 @@ async function saveClasses(req, res) {
         await createProffy(db, { proffyValue, classValue, classScheduleValues })        
 
         let queryString = '?subject=' + req.body.subject
-        queryString += '&weekday' + req.body.weekday[0]
-        queryString += '&time' + req.body.time_from[0]
+        queryString += '&weekday=' + req.body.weekday[0]
+        queryString += '&time=' + req.body.time_from[0]
 
         return res.redirect('/study' + queryString)
     } catch (error) {

@@ -18,7 +18,7 @@
 
 1 - Clone the repository
 ```
-https://github.com/VictorMello1993/NLW-2.git
+git clone https://github.com/VictorMello1993/NLW-2.git
 ```
 2 - Run VS Code and open the folder "NLW-2" as default project
 

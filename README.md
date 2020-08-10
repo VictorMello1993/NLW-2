@@ -48,7 +48,7 @@ npm run dev
 - [ ] Add remove proffy button
 - [ ] Add a new page displaying a success message after registering the proffy
 - [ ] Add dark theme 
-- [ ] Find the potencial bugs and fix them
+- [ ] Find the potential bugs and fix them
 
 
 

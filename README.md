@@ -43,3 +43,14 @@ npm run dev
 ![](/public/images/proffyDesktop1.gif)
 ![](/public/images/proffyDesktop2.gif)
 ![](/public/images/proffyDesktop3.gif)
+
+## Improvements to build
+- [ ] Add remove proffy button
+- [ ] Add a new page displaying a success message after registering the proffy
+- [ ] Add dark theme 
+- [ ] Find the potencial bugs and fix them
+
+
+
+
+

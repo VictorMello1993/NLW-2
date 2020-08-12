@@ -45,12 +45,10 @@ npm run dev
 ![](/public/images/proffyDesktop3.gif)
 
 ## Improvements to build
-- [ ] Add remove proffy button
+- [x] Add remove schedule item button
 - [ ] Add a new page displaying a success message after registering the proffy
 - [ ] Add dark theme 
 - [ ] Find the potential bugs and fix them
-
-
 
 
 

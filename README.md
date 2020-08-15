@@ -22,7 +22,7 @@ git clone https://github.com/VictorMello1993/NLW-2.git
 ```
 2 - Run VS Code and open the folder "NLW-2" as default project
 
-3 - Open the terminal and install all the dependencies avaiable in this project
+3 - Open the terminal and install all the dependencies available in this project
 ```
 npm install
 ```

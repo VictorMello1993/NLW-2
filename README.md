@@ -31,6 +31,11 @@ npm install
 npm run dev
 ```
 
+5 - Type in your browser to access the app
+```
+localhost:5500
+```
+
 <h2>Storyboard</h2>
 <h3>:iphone:Mobile</h3>
 

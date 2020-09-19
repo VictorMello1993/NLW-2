@@ -18,8 +18,7 @@
   <a href="#wrench-features">Features</a> •
   <a href="#triangular_flag_on_postgetting-started">Getting started</a> •
   <a href="#storyboard">Storyboard</a> •
-  <a href="#improvements-to-build">Improvements to build</a> •
-  <a href="#versions-of-readme">Versions of README</a> •
+  <a href="#improvements-to-build">Improvements to build</a> •  
 </p>
 
 

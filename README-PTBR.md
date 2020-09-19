@@ -1,4 +1,28 @@
 ![](/public/images/Screenshot_1.png)
+
+
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/VictorMello1993/NLW-2?color=FF0000">
+  
+  <a href="https://github.com/VictorMello1993/FlappyBird/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/VictorMello1993/NLW-2?color=D3D3D3">
+  </a> 
+  
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+   <a href="https://github.com/VictorMello1993/NLW-2/stargazers"></a>
+</p>
+
+
+<p align="center">
+  <a href="#earth_americas-visão-geral">Visão geral</a> •
+  <a href="#wrench-recursos">Recursos</a> •
+  <a href="#triangular_flag_on_postcomeçando">Começando</a> •
+  <a href="#storyboard">Storyboard</a> •
+  <a href="#melhorias-a-implementar">Melhorias a implementar</a> •
+  <a href="#versões-do-readme">Versões do README</a> •
+</p>
+
+
 <h2>:earth_americas: Visão geral</h2>
 <p>Aplicação construída durante o evento NLW (Next Level Week)  2ª edição, promovido por <a href="https://rocketseat.com.br/">Rocketseat</a>. Ela foi construída coforme o padrão mobile-first, então adaptada para a versão Desktop.<p>
 

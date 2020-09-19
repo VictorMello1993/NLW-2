@@ -64,3 +64,7 @@ localhost:5500
 - [ ] Adicionar uma nova página exibindo uma mensagem de sucesso depois de cadastrar um proffy
 - [ ] Adicionar modo escuro
 - [ ] Encontrar os potenciais bugs e corrigí-los
+
+---
+## Versões do README
+<a href="/README.md">Inglês</a> | <a href="/README-PTBR.md">Português</a>

@@ -3,6 +3,8 @@
 <h2>:earth_americas: Overview</h2>
 <p>App built during the event NLW (Next Level Week) season 2, promoted by <a href="https://rocketseat.com.br/">Rocketseat</a>. It was built based on mobile-first pattern, then built for Desktop posteriorly.<p>
 
+---
+
 <h2>:wrench: Features</h2>
 <ul>
   <li>HTML</li>
@@ -13,6 +15,8 @@
   <li>Nunjucks</li>
   <li>SQLite</li>
 </ul>  
+
+---
 
 <h2>:triangular_flag_on_post:Getting started</h2>
 
@@ -36,6 +40,8 @@ npm run dev
 localhost:5500
 ```
 
+---
+
 <h2>Storyboard</h2>
 <h3>:iphone:Mobile</h3>
 
@@ -43,11 +49,15 @@ localhost:5500
 ![](/public/images/proffyMobileGif2.gif)
 ![](/public/images/proffyMobileGif3.gif)
 
+
+
 <h3>:computer:Desktop</h3>
 
 ![](/public/images/proffyDesktop1.gif)
 ![](/public/images/proffyDesktop2.gif)
 ![](/public/images/proffyDesktop3.gif)
+
+---
 
 ## Improvements to build
 - [x] Add a remove schedule item button
@@ -55,5 +65,6 @@ localhost:5500
 - [ ] Add dark theme 
 - [ ] Find the potential bugs and fix them
 
-
-
+---
+## Versions of README
+<a href="/README.md">English</a> | <a href="/README-PTBR.md">Portuguese</a>

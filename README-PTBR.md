@@ -18,8 +18,7 @@
   <a href="#wrench-recursos">Recursos</a> •
   <a href="#triangular_flag_on_postcomeçando">Começando</a> •
   <a href="#storyboard">Storyboard</a> •
-  <a href="#melhorias-a-implementar">Melhorias a implementar</a> •
-  <a href="#versões-do-readme">Versões do README</a> •
+  <a href="#melhorias-a-implementar">Melhorias a implementar</a> •  
 </p>
 
 

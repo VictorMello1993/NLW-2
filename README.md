@@ -88,5 +88,5 @@ localhost:5500
 - [ ] Find the potential bugs and fix them
 
 ---
-## Versions of README
+## README versions
 <a href="/README.md">English</a> | <a href="/README-PTBR.md">Portuguese</a>

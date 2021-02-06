@@ -16,9 +16,13 @@
   --color-line-in-white: #e6e6f0;
   --color-input-background: #f8f8fc;
   --color-button-text: #ffffff;
+  --color-checkbox-ball: #ffffff; 
   --color-box-base: #ffffff;
   --color-box-footer: #fafafc;
   --color-small_info: #c1bccc;
+  --color-checkbox-label: #111;  
+  --color-checkbox-moon: #f1c40f;
+  --color-checkbox-sun: #f39c12;
 
   /* Tamanho da fonte padrão: 16px - 100% - 1rem */
   font-size: 60%;
@@ -46,7 +50,7 @@ body {
 }
 
 .label {
-  background: #111;
+  background: var(--color-checkbox-label);
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -58,7 +62,7 @@ body {
 }
 
 .ball {
-  background: #fff;
+  background: var(--color-checkbox-ball);
   border-radius: 50%;
   position: absolute;
   top: 2px;
@@ -73,11 +77,11 @@ body {
 }
 
 .fa-moon {
-  color: #f1c40f;
+  color: var(--color-checkbox-moon);
 }
 
 .fa-sun {
-  color: #f39c12;
+  color: var(--color-checkbox-sun);
 }
 
 body {

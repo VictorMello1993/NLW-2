@@ -2,14 +2,16 @@ window.onload = () => {
   const html = document.querySelector('html');
   const checkbox = document.getElementById('checkbox');
 
-  checkbox.addEventListener('change', () => {
-    html.classList.toggle('dark-mode')
+  if(localStorage.getItem('background') === 'true'){
+    html.classList.add('dark-mode')
+    checkbox.checked = true;
+  }
 
-    if (html.classList.contains('dark-mode')) {
-      localStorage.setItem('background', 'dark-mode')
-    }
-    else {
-      localStorage.setItem('background', '')
-    }
+  checkbox.addEventListener('change', () => {
+    html.classList.toggle('dark-mode')    
+    localStorage.setItem('background', checkbox.checked)
   })
 }
+
+
+

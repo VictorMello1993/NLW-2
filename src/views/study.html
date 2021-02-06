@@ -10,15 +10,26 @@
     <link rel="stylesheet" href="styles/partials/forms.css">
     <link rel="stylesheet" href="styles/partials/page-study.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;700&amp;family=Poppins:wght@400;600&amp;display=swap">
+    <script src="https://kit.fontawesome.com/de25b26018.js" crossorigin="anonymous"></script>
+    <script src="scripts/darkmode.js" crossorigin="anonymous"></script>
 </head>
 
-<body id="page-study">
+<body id="page-study">                
     <div id="container">
         <header class="page-header">
             <div class="top-bar-container">
                 <a href="/">                    
                     <img src="images/icons/back.svg" alt="Voltar">
                 </a>
+                <!-- Dark mode / Light mode -->
+                <div class="container">
+                    <input type="checkbox" class="checkbox" id="checkbox" name="checkbox" />
+                    <label for="checkbox" class="label">
+                        <i class="fas fa-moon"></i>
+                        <i class="fas fa-sun"></i>
+                    <div class="ball"></div>
+                    </label>
+                </div>      
                 <img src="images/logo.svg" alt="Proffy">
             </div>
             <div class="header-content">

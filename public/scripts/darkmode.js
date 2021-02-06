@@ -3,7 +3,7 @@ window.onload = () => {
   const checkbox = document.getElementById('checkbox');
 
   if(localStorage.getItem('background') === 'true'){
-    html.classList.add('dark-mode')
+    html.classList.toggle('dark-mode')
     checkbox.checked = true;
   }
 

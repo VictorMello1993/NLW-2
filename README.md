@@ -84,7 +84,7 @@ localhost:5500
 ## Improvements to build
 - [x] Add a remove schedule item button
 - [ ] Add a new page displaying a success message after registering the proffy
-- [ ] Add dark theme 
+- [x] Add dark theme 
 - [ ] Find the potential bugs and fix them
 
 ---

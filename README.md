@@ -100,4 +100,4 @@ localhost:5500
 
 ---
 ## README versions
-<img src="/public/images/eua.png" alt="Bandeira dos Estados Unidos" width="22px"/> <a href="/README.md">English</a> | <img src="/public/images/br.jpg" alt="Bandeira do Brasil" width="22px"/> <a href="/README-PTBR.md">Portuguese</a>
+<img src="/public/images/eua.png" alt="United States flag" width="22px"/> <a href="/README.md">English</a> | <img src="/public/images/br.jpg" alt="Brazil flag" width="22px"/> <a href="/README-PTBR.md">Portuguese</a>

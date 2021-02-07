@@ -82,6 +82,8 @@ localhost:5500
 
 ---
 
+<h3>:crescent_moon:Modo escuro</h3>
+
 ![](/public/images/DarkModeGif2.gif)
 ![](/public/images/DarkModeMobileGif.gif)
 

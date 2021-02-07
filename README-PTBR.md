@@ -82,6 +82,11 @@ localhost:5500
 
 ---
 
+![](/public/images/DarkModeGif2.gif)
+![](/public/images/DarkModeMobileGif.gif)
+
+---
+
 ##  Melhorias a implementar
 - [x] Adicionar o botão de remover o schedule item
 - [ ] Adicionar uma nova página exibindo uma mensagem de sucesso depois de cadastrar um proffy

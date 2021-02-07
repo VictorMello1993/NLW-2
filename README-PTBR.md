@@ -18,6 +18,7 @@
   <a href="#wrench-recursos">Recursos</a> •
   <a href="#triangular_flag_on_postcomeçando">Começando</a> •
   <a href="#storyboard">Storyboard</a> •
+  <a href="#crescent_moonmodo-escuro">Modo escuro</a> •  
   <a href="#melhorias-a-implementar">Melhorias a implementar</a> •  
 </p>
 
@@ -80,7 +81,10 @@ localhost:5500
 ![](/public/images/proffyDesktop2.gif)
 ![](/public/images/proffyDesktop3.gif)
 
+
 ---
+
+
 
 <h3>:crescent_moon:Modo escuro</h3>
 
@@ -91,7 +95,9 @@ localhost:5500
 
 <p>Para deixar ainda mais realista, além de incluir o modo escuro, foi implementada a lógica de manter o estado do background da página salvo no Local Storage, de modo que toda vez que o usuário atualiza no navegador, a página é renderizada exatamente em qual tema foi selecionada na última vez, sem perder nenhuma informação e voltar sempre para o estado padrão, o modo claro.</p> 
 
+
 ---
+
 
 ##  Melhorias a implementar
 - [x] Adicionar o botão de remover o schedule item

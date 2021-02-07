@@ -86,6 +86,8 @@ localhost:5500
 ![](/public/images/DarkModeGif2.gif)
 ![](/public/images/DarkModeMobileGif.gif)
 
+---
+
 ## Improvements to build
 - [x] Add a remove schedule item button
 - [ ] Add a new page displaying a success message after registering the proffy

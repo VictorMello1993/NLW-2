@@ -18,7 +18,7 @@
   <a href="#wrench-features">Features</a> •
   <a href="#triangular_flag_on_postgetting-started">Getting started</a> •
   <a href="#storyboard">Storyboard</a> •
-  <a href="#crescent_moonmodo-escuro">Dark mode</a> •  
+  <a href="#crescent_moondark-mode">Dark mode</a> •  
   <a href="#improvements-to-build">Improvements to build</a> •  
 </p>
 
@@ -100,4 +100,4 @@ localhost:5500
 
 ---
 ## README versions
-<a href="/README.md">English</a> | <a href="/README-PTBR.md">Portuguese</a>
+<img src="/public/images/eua.png" alt="United States flag" width="22px"/> <a href="/README.md">English</a> | <img src="/public/images/br.jpg" alt="Brazil flag" width="22px"/> <a href="/README-PTBR.md">Portuguese</a>

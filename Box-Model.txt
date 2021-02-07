@@ -1,0 +1,18 @@
+																				Box-Model (Modelo de caixa)
+																											
+
+
+Todo elemento HTML representa uma caixa, que possui as suas dimensões (borda, padding e marging)																										
+
+
+divs, li, inputs, por exemplo, possuem display block por padrão. Logo, esses elementos vão ficar um abaixo do outro ocupando 100% da largura do navegador. Com display:block,
+esses elementos terão dimensões de largura e altura. Porém, setando display: inline-block, os elementos ficarão um ao lado do outro
+
+Elementos como span e p, por padrão, ficarão um ao lado do outro, pois são display: inline. Porém, setando para display:block, terá a mesma situação descrita no item
+anterior
+
+O body, por padrão ocupa 100% da largura da tela, mas não na altura. Logo, à medida que novos elementos são adicionados, o body terá a sua altura aumentada (isso se
+for levado em consideração a unidade relativa, o percentual. Com as unidades absolutas, o body irá crescer independente da hierarquia dos elementos filhos). 
+Para garantir que o body (ou html) tenha a altura suficiente para que os seus elementos filhos ocupem a altura relativa, 
+basta estilizar html{height: 100%} body{height: 100%}
+

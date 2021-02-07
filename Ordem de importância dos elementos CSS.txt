@@ -1,0 +1,26 @@
+																	ORDEM DE IMPORTÂNCIA DOS ELEMENTOS CSS
+																	
+Especificidade CSS:																	
+Prioridade 1: força do id
+Prioridade 2: força da classe e pseudo classes
+Prioridade 3: força da próprio elemento HTML e pseudo elementos
+
+Quanto maior a força em cascata dos elementos CSS, maior a importância terá o elemento, independente da posição que se coloque na página
+
+
+Ex:
+#id .classe{ Prioridade 1 (pois se tem a cascata)
+	color: red;
+}																	
+
+#id { Prioridade 2
+	background-color: black;
+}
+
+.classe { Priodade 3
+	margin-bottom: 4px;
+}
+
+h1 { Prioridade 4
+	font-family: Tahoma;
+}

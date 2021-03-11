@@ -69,15 +69,27 @@ localhost:5500
 <h3>:iphone:Mobile</h3>
 
 ![](/public/images/proffyMobileGif1.gif)
+
+<br/>
+
 ![](/public/images/proffyMobileGif2.gif)
+
+<br/>
+
 ![](/public/images/proffyMobileGif3.gif)
 
-
+<br/>
 
 <h3>:computer:Desktop</h3>
 
 ![](/public/images/proffyDesktop1.gif)
+
+<br/>
+
 ![](/public/images/proffyDesktop2.gif)
+
+<br/>
+
 ![](/public/images/proffyDesktop3.gif)
 
 ---
@@ -85,7 +97,12 @@ localhost:5500
 <h3>:crescent_moon:Dark mode</h3>
 
 ![](/public/images/DarkModeGif2.gif)
+
+<br/>
+
 ![](/public/images/DarkModeMobileGif.gif)
+
+<br/>
 
 <p><i>References: <a href="https://github.com/andrePereira11/maratonaDiscover">André Luís</a></i></p>
 
